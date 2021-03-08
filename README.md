@@ -36,13 +36,13 @@ Watch the [Demo](https://youtu.be/7LEKQxTlra8)
 
 Go to [Backend Repo](https://github.com/bahayg/recipe-app-backend)
 
-## Support and Contact Details
+<!-- ## Support and Contact Details
 
 bahayg@gmail.com
 
 ## License
 
-Copyright (c) 2020 Bahay Gulle Bilgi.
+Copyright (c) 2020 Bahay Gulle Bilgi. -->
 
 <!-- This software is licenced under the MIT License. -->
 
