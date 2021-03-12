@@ -32,9 +32,15 @@ React.js, JavaScript, Ruby, Ruby on Rails, ActiveRecord, PostgreSQL, MealDB API,
 
 ## Links
 
-Watch the [Demo](https://youtu.be/7LEKQxTlra8)
-
 Go to [Backend Repo](https://github.com/bahayg/recipe-app-backend)
+
+Read the Blog Post: [How to Implement Semantic UI Item View in React](https://medium.com/analytics-vidhya/how-to-implement-semantic-ui-item-view-in-react-1f8e09e504b3?source=friends_link&sk=7e187e2a520360fe5ec7604b04a0972d)
+
+Watch the Demo:
+
+[![Demo](FP_thumbnail.png)](https://youtu.be/7LEKQxTlra8)
+
+<!-- Watch the [Demo](https://youtu.be/7LEKQxTlra8) -->
 
 <!-- ## Support and Contact Details
 
